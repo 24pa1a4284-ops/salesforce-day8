@@ -1,0 +1,4 @@
+
+2)WHY SALESFORCE USES LWC
+A)Salesforce uses LWC because it provides faster performance, 
+reusable components, modern UI architecture, and better developer experience.

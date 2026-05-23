@@ -1,0 +1,4 @@
+  
+6)REFLECTION
+A)Modern enterprise systems use component-based UI architecture
+ because reusable components improve scalability, maintenance, performance, and development speed.

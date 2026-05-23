@@ -1,0 +1,12 @@
+  
+
+5)FRONTED VS BACKEND LOGIC
+A)Frontend/UI
+- Button click
+- Notification display
+- Form display
+
+### Backend/Apex
+- Data validation
+- Fee calculation
+- Database operations

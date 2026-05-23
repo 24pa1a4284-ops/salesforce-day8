@@ -1,0 +1,7 @@
+
+3)YOUR UI SCREEN
+A)1. Student Registration Form
+2. Course Dashboard
+3. Attendance View
+4. Faculty Panel
+5. Notifications Widget

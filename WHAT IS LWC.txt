@@ -1,0 +1,5 @@
+   
+
+1WHAT IS LWC
+A)Lightning Web Components (LWC) is a modern Salesforce UI framework used
+ to build reusable and fast user interfaces using HTML, JavaScript, and Metadata files.

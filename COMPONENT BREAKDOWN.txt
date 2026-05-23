@@ -1,0 +1,8 @@
+ 
+4)COMPONENT BREAKDOWN
+A) Student Dashboard Components
+
+- Header Component
+- Student Info Component
+- Attendance Component
+- Notification Component
